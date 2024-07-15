@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/Geetanjali880/geetanjali880/blob/main/WhatsApp%20Image%202024-07-15%20at%2017.12.55_3920c2bc.jpg)
 
 <h1 align="center">Hi 👋, I'm Geetanjali</h1>
 <h3 align="center">👋 Hi! I'm Geetanjali, a motivated Data Analyst enthusiast with a strong passion for uncovering insights and driving decisions through data. My toolset includes Python, Excel, SQL, Power BI, and Data Visualization, all of which I leverage to turn complex data into actionable insights.</h3>
