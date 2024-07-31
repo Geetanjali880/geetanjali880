@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Geetanjali880/geetanjali880/blob/main/WhatsApp%20Image%202024-07-15%20at%2017.12.55_3920c2bc.jpg)
+![logo](https://github.com/Geetanjali880/geetanjali880/blob/main/github.jpg)
 
 <h1 align="center">Hi 👋, I'm Geetanjali</h1>
 <h3 align="center">👋 Hi! I'm Geetanjali, a motivated Data Analyst enthusiast with a strong passion for uncovering insights and driving decisions through data. My toolset includes Python, Excel, SQL, Power BI, and Data Visualization, all of which I leverage to turn complex data into actionable insights.</h3>
@@ -25,7 +25,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+ <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="excel" width="40" height="40"/> </a>
+ 
+  </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power bi" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/> 
+  </a>
+</p>
 
 
 
