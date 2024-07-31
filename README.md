@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjalidagar880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DOvoDlNPjGGIFV9pdWbFtLmx9-J2tkeI/view?usp=drive_link](https://drive.google.com/file/d/1DOvoDlNPjGGIFV9pdWbFtLmx9-J2tkeI/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1uqTTe_Uyv_Nb313QVneV7nVgJWu2Kbhs/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
